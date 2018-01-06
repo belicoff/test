@@ -7,10 +7,10 @@
     <artifactId>springboot</artifactId>
 
     <version>0.0.2-SNAPSHOT</version>
-
     <packaging>jar</packaging>
-	
+
     <name>boot moidfied 3</name>
+
     <description>Demo project for Spring Boot</description>
 
     <parent>
