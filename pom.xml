@@ -10,7 +10,7 @@
 
     <packaging>jar</packaging>
 	
-    <name>boot ÐÞ¸Ä</name>
+    <name>spring-boot</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
